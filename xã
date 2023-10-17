@@ -1,0 +1,502 @@
+<html><head>
+    <meta http-equiv="Content-Type" content="text/html" charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+        <meta http-equiv="content-language" content="vi">
+<meta name="robots" content="index, follow'">
+
+<title>[ ADMIN ] Administrator VietNam BH Nguyễn Phong Chức</title>
+<meta name="description" content="[ ADMIN ] Administrator VietNam [Nguyễn Phong Chức] BH 20,000,000VND">
+<meta name="keywords" content="">
+
+<!-- Open Graph data -->
+<meta property="og:title" content="[ ADMIN ] Administrator VietNam [Nguyễn Phong Chức] BH 20,000,000VND">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://admin.vn/trust-service/nguyen-phong-chuc">
+<meta property="og:image" content="https://admin.vn/storage/userfiles/files/z4128788721813_a86c6be07c40ccbe063013e7e4594082.jpg">
+<meta property=20,000,000VND">
+<meta property="article:tag" content="">
+
+<!20,000,000VND",
+ "articleBody": ""
+ }
+</script>
+    <meta name="csrf-token" content="QfcgaDoqUNNqnE9vUEi38XrXbrsC54BT28LrM8ic">
+    <link rel="icon" href="https://admin.vn/storage/userfiles/files/logo4.png">
+<link rel="apple-touch-icon" href="https://admin.vn/storage/userfiles/files/logo4.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&amp;display=swap" rel="stylesheet">
+
+<style>
+    :root {
+        --primary-color: #FF225C;
+        --primary-hover: #ad002c;
+    }
+</style>
+<link rel="stylesheet" href="https://admin.vn/assets/default/plugins/bootstrap/bootstrap.min.css">
+<link rel="stylesheet" href="https://admin.vn/assets/default/plugins/swiper/swiper-bundle.min.css">
+<link rel="stylesheet" href="https://admin.vn/assets/default/plugins/select2/css/select2.min.css">
+<link rel="stylesheet" href="https://admin.vn/assets/default/plugins/fancybox/fancybox.min.css">
+<link rel="stylesheet" href="https://admin.vn/assets/default/fonts/fontawesome/css/all.min.css">
+<link rel="stylesheet" href="https://admin.vn/assets/default/css/base.css">
+<link rel="stylesheet" href="https://admin.vn/assets/default/css/style.css">
+
+        <style>
+        .profile-box .profile-box_content ul{
+            padding-left: 1rem!important;
+        }
+    </style>
+</head>
+<body>
+<header class="header bg-white position-relative z-index-10" id="header">
+    <div class="header-main">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-3">
+                    <div class="header-bar d-flex align-items-center">
+                        <div class="header-hamburger d-block d-lg-none">
+                            <button type="button" class="no-animation" id="header-hamburger">
+                                <span></span>
+                                <span></span>
+                                <span></span>
+                            </button>
+                        </div>
+                        <div class="header-logo">
+                            <a href="https://admin.vn">
+                                <img src="https://admin.vn/storage/userfiles/files/logo3.png" alt="ADMINSTRATOR VIETNAM">
+                            </a>
+                        </div>
+                        <div class="header-button d-lg-none ml-auto d-flex align-items-center justify-content-end">
+                            <div class="header-button_items position-relative">
+                                <button type="button" class="btn-theme btn-theme_gray btn-collapse_search btn-call_search"><i class="far fa-search"></i></button>
+                                <div class="header-search">
+                                    <form action="https://admin.vn/scam/search" method="POST">
+                                        <input type="hidden" name="_token" value="QfcgaDoqUNNqnE9vUEi38XrXbrsC54BT28LrM8ic">                                        <div class="form-group position-relative">
+                                            <input type="text" class="form-control" name="search" placeholder="Nhập số điện thoại, số tài khoản ngân hàng ...">
+                                            <button type="submit">
+                                                <i class="far fa-search"></i>
+                                            </button>
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
+                            <div class="header-button_items position-relative">
+                                <a href="https://admin.vn/scam/create" role="button" class="btn-theme btn-theme_primary">
+                                    <div class="d-block d-sm-none">
+                                        <i class="fas fa-exclamation"></i>
+                                    </div>
+                                    <div class="d-sm-block d-none">
+                                        Tố cáo lừa đảo
+                                    </div>
+                                    <span></span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div id="header-navigation" class="header-navigation d-lg-flex align-items-center justify-content-end">
+                        <ul>
+        <li class="d-block d-lg-none header-navigation_logo">
+            <a href="https://admin.vn">
+                <img src="https://admin.vn/storage/userfiles/files/logo3.png" alt="">
+            </a>
+            <button type="button" class="header-navigation_close" id="header-navigation_close"><i class="far fa-times"></i></button>
+        </li>
+                    <li>
+                <a href="https://admin.vn/post/gioi-thieu.html">
+                    GIỚI THIỆU
+                                    </a>
+                            </li>
+                    <li>
+                <a href="https://admin.vn/post/dieu-khoan.html">
+                    ĐIỀU KHOẢN
+                                    </a>
+                            </li>
+                    <li>
+                <a href="https://admin.vn/post/chinh-sach.html">
+                    CHÍNH SÁCH
+                                    </a>
+                            </li>
+                    <li>
+                <a href="https://admin.vn/trust-services">
+                    QUỸ BẢO HIỂM ADMIN
+                        Chức
+                        </div>
+                        <div class="profile-buttons">
+                            <div class="btn-checkmess btn-checkmess_hidden">
+                                <a href="https://www.messenger.com/t/100086472333472/" class="btn-theme btn-theme_primary" target="_blank">
+                                    <i class="fab fa-facebook-messenger"></i>
+                                    Check Mess
+                                    <span style="top: -67.9062px; left: 46.2031px;"></span>
+                                </a>
+                                <a href="https://www.messenger.com/t/100086472333472/" class="description-hidden">
+									<span>Ấn vào "Check Mess" nhắn tin cho GDV để chắc chắn rằng bạn đang giao dịch với
+										Real</span>
+                                    <button>
+                                        Ok
+                                    </button>
+                                </a>
+                                <div class="description-overlay"></div>
+                            </div>
+                            <a href="https://www.facebook.com/profile.php?id=100086472333472" class="btn-theme btn-theme_primary">
+                                <i class="fab fa-facebook-square"></i>
+                                Check Facebook
+                                <span style="top: 72.0938px; left: 183.094px;"></span>
+                            </a>
+                        </div>
+                        <div class="profile-boxs">
+                            <div class="row row-col-15">
+                                <div class="col-md-6">
+                                    <div class="profile-box">
+                                        <div class="profile-box_content">
+                                            <div class="profile-box_content__title">
+                                                Thông tin liên hệ
+                                            </div>
+                                            <div class="profile-box_content__list">
+                                                <p>
+                                                    <span>
+                                                        <i class="fab fa-facebook-f"></i>
+                                                    </span>
+                                                    Check Facebook:
+                                                    <a href="https://www.facebook.com/100086472333472" target="_blank">
+                                                        100086472333472
+                                                    </a>
+                                                </p>
+                                                <p>
+                                                    <span>
+                                                        <img src="https://admin.vn/assets/default/images/zalo.webp" alt="">
+                                                    </span>
+                                                    Check Zalo:
+                                                    <a href="https://zalo.me/0375721032" target="_blank">
+                                                        0375721032
+                                                    </a>
+                                                </p>
+                                                <p>
+                                                    <span>
+                                                        <i class="far fa-globe"></i>
+                                                    </span>
+                                                    Website:
+                                                    <a href="https://www.facebook.com/trunggianuytin.1122">
+                                                        https://www.facebook.com/trunggianuytin.1122
+                                                    </a>
+                                                </p>
+                                            </div>
+                                            <div class="profile-box_content__image">
+                                                <img src="https://admin.vn/assets/default/images/info.webp" alt="">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="profile-box">
+                                        <div class="profile-box_content">
+                                            <div class="profile-box_content__title">
+                                                Quỹ Bảo Hiểm ADMINSTRATOR VIETNAM
+                                            </div>
+                                            <div class="profile-box_content__desc">
+                                                <p>Khách hàng sẽ được <b>ADMINSTRATOR VIETNAM bảo hiểm an toàn giao dịch</b> với số
+                                                    tiền trong quỹ bảo hiểm <strong class="text-danger">20,000,000 VND</strong> của <strong>Nguyễn Phong Chức</strong></p>
+                                            </div>
+                                            <div class="profile-box_content__image">
+                                                <img src="https://admin.vn/assets/default/images/shield.webp" alt="">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="profile-boxs">
+                            <div class="profile-box profile-box_nopr">
+                                <div class="profile-box_content">
+                                    <div class="profile-box_content__title">
+                                        Vui lòng kiểm tra kỹ thông tin trước khi giao dịch tránh
+                                        Fake:
+                                    </div>
+                                                                        <div class="mb-3 ">
+                                        <p><strong>Link đổi thẻ cào</strong>&nbsp;:&nbsp;<span style="font-size:16px"><a href="http://thegiare.vn/"><strong>Thegiare.vn</strong></a></span></p>
+
+<p><strong>SỐ TÀI KHOẢN CỦA " NGUYỄN PHONG CHUC&nbsp;"&nbsp;</strong></p>
+
+<ul>
+	<li>
+	<p><strong>TPbank&nbsp; :&nbsp;</strong><a href="tel:1214514545">1214514545</a>&nbsp; -<strong><span style="color:#27ae60"> Nguyễn Phong Chức</span></strong></p>
+	</li>
+</ul>
+
+<p><strong><span style="color:#e67e22">- Điều hành&nbsp;trang Data Center&nbsp;</span><a href="http://admin.vn/"><span style="color:#2980b9">ADMIN VIETNAM</span></a><span style="color:#e67e22">&nbsp;có quyền quyết định sử phạt tất cả các vi phạm về điều khoản .</span></strong></p>
+
+<p><span style="color:#e67e22"><strong>- Có quyền trích quỹ hoàn trả toàn bộ số tiền quỹ bảo&nbsp;hiểm lại cho nạn nhận nếu giao dịch với </strong></span><span style="color:#3498db"><strong>ADMIN VIETNAM</strong></span><span style="color:#e67e22"><strong> xảy ra sự cố không mong muốn .</strong></span></p>
+                                    </div>
+                                    <div class="profile-box_content__desc">
+                                        <p><strong>Lưu Ý:</strong> Tránh trường hợp Nick Fake, Ảnh Fake, Link Fake, Rửa
+                                            Tiền…. Người dùng hãy nhớ Chát đúng Facebook, Gọi đúng SĐT, Chuyển khoản
+                                            đúng những STK có ở trong trong link bảo hiểm này Admin cam kết bạn sẽ
+                                            an toàn trong mọi giao dịch..!!!</p>
+                                    </div>
+                                    <div class="profile-box_content_watermark">
+                                        <img src="https://admin.vn/assets/default/images/xacnhanuytin.jpg" alt="">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="profile-desc">
+                            Mọi giao dịch của bạn với <b style="color:#ff225c">"Nguyễn Phong Chức"</b> sẽ được <b>ADMINSTRATOR VIETNAM
+                                Bảo vệ</b> với số tiền nằm trong <strong style="color:#ff225c">Quỹ bảo hiểm 10,000,000 VND</strong> khi bạn
+                            tuân theo
+                            <a href="https://admin.vn/post/dieu-khoan.html">Điều Khoản Sử Dụng</a>
+                            của ADMINSTRATOR VIETNAM
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<footer class="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="footer-top">
+                    <div class="row">
+                        <div class="col-md-6 col-lg-3">
+                            <div class="footer-item">
+                                <div class="footer-item_text">
+                                    DATA CENTER ADMIN VIETNAM
+                                </div>
+                                <div class="footer-item_link">
+                                    Hotline:
+                                    <a href="tel:0767189999">0767189999</a>
+                                </div>
+                                <div class="footer-item_link">
+                                    Điện thoại:
+                                    <a href="tel:0767189999">0767189999</a>
+                                </div>
+                                <div class="footer-item_link">
+                                    Email:
+                                    <a href="mailto:example@gmail.com">center@admin.vn</a>
+                                </div>
+                                <div class="footer-item_link">
+                                    Địa chỉ: An Giang - Nguyễn Văn Tân đều hành
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-3 col-6">
+            <div class="footer-item">
+                <div class="footer-item_text footer-item_decor">
+                    Dịch vụ Center
+                </div>
+                                    <ul class="footer-item_list">
+                                                    <li>
+                                <a href="https://thegiare.vn">Đổi thẻ cào</a>
+                            </li>
+                                                    <li>
+                                <a href="https://automxh.info/">Auto MXH</a>
+                            </li>
+                                                    <li>
+                                <a href="https://admin.vn/post/dieu-khoan.html">Đăng kí quỹ bảo hiểm Admin VN</a>
+                            </li>
+                                            </ul>
+                            </div>
+        </div>
+            <div class="col-md-6 col-lg-3 col-6">
+            <div class="footer-item">
+                <div class="footer-item_text footer-item_decor">
+                    Thông tin Admin
+                </div>
+                                    <ul class="footer-item_list">
+                                                    <li>
+                                <a href="/news">Tin tức</a>
+                            </li>
+                                                    <li>
+                                <a href="https://admin.vn/trust-services">Supper Team Free Fire</a>
+                            </li>
+                                                    <li>
+                                <a href="https://admin.vn/trust-services">Supper Team MMO</a>
+                            </li>
+                                            </ul>
+                            </div>
+        </div>
+    
+
+                        <div class="col-md-6 col-lg-3 col-6">
+                            <div class="footer-item">
+                                <div class="footer-item_text footer-item_decor">
+                                    Cộng đồng
+                                </div>
+                                <ul class="list-unstyled mb-0 footer-item_social">
+                                    <li class="facebook">
+                                        <a href="">
+                                            <i class="fab fa-facebook-f"></i>
+                                        </a>
+                                    </li>
+                                    <li class="telegram">
+                                        <a href="">
+                                            <i class="fab fa-telegram-plane"></i>
+                                        </a>
+                                    </li>
+                                    <li class="twitter">
+                                        <a href="">
+                                            <i class="fab fa-twitter"></i>
+                                        </a>
+                                    </li>
+                                    <li class="youtube">
+                                        <a href="">
+                                            <i class="fab fa-youtube"></i>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<div class="float-buttons">
+    <a href="https://admin.vn/scam/create" class="btn-theme btn-theme_primary">TỐ CÁO <span></span></a>
+    <a href="https://admin.vn/trust-services" class="btn-theme btn-theme_success">CHECK UY TÍN<span></span></a>
+</div>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=U321312323"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'U321312323');
+    </script>
+    <a href="https://www.dmca.com/Protection/Status.aspx?ID=c0a05807-c3f8-4d85-b0a2-fe7adc5a8965&amp;refurl=https://admin.vn/trust-service/nguyen-phong-chuc" title="DMCA.com Protection Status" class="dmca-badge" style="display: block;margin-bottom: 40px;"> <img class="m-auto d-block" src="https://images.dmca.com/Badges/_dmca_premi_badge_2.png?ID=c0a05807-c3f8-4d85-b0a2-fe7adc5a8965" alt="DMCA.com Protection Status"></a>  <script src="https://images.dmca.com/Badges/DMCABadgeHelper.min.js"> </script>
+
+<div class="social-button">
+    <div class="social-button-content">
+        <a href="https://t.me/checkadminvietnam" target="_blank" class="call-icon" rel="nofollow">
+            <i class="fab fa-telegram-plane" aria-hidden="true"></i>
+            <div class="animated alo-circle"></div>
+            <div class="animated alo-circle-fill  "></div>
+        </a>
+    </div>
+</div>
+<style>
+    .social-button{
+      display: inline-grid;
+        position: fixed;
+        bottom: 45px;
+        right: 45px;
+        min-width: 45px;
+        text-align: center;
+        z-index: 99999;
+    }
+    .social-button-content{
+      display: inline-grid;   
+    }
+    .social-button a {padding:8px 0;cursor: pointer;position: relative;}
+    .social-button i{
+      width: 40px;
+        height: 40px;
+        background: #43a1f3;
+        color: #fff;
+        border-radius: 100%;
+        font-size: 20px;
+        text-align: center;
+        line-height: 1.9;
+        position: relative;
+        z-index: 999;
+    }
+    .social-button span{
+      display: none;
+    }
+    .alo-circle {
+        animation-iteration-count: infinite;
+        animation-duration: 1s;
+        animation-fill-mode: both;
+        animation-name: zoomIn;
+        width: 50px;
+        height: 50px;
+        top: 3px;
+        right: -3px;
+        position: absolute;
+        background-color: transparent;
+        -webkit-border-radius: 100%;
+        -moz-border-radius: 100%;
+        border-radius: 100%;
+        border: 2px solid rgba(30, 30, 30, 0.4);
+        opacity: .1;
+        border-color: #0089B9;
+        opacity: .5;
+    }
+    .alo-circle-fill {
+      animation-iteration-count: infinite;
+      animation-duration: 1s;
+      animation-fill-mode: both;
+      animation-name: pulse;
+        width: 60px;
+        height: 60px;
+        top: -2px;
+        right: -8px;
+        position: absolute;
+        -webkit-transition: all 0.2s ease-in-out;
+        -moz-transition: all 0.2s ease-in-out;
+        -ms-transition: all 0.2s ease-in-out;
+        -o-transition: all 0.2s ease-in-out;
+        transition: all 0.2s ease-in-out;
+        -webkit-border-radius: 100%;
+        -moz-border-radius: 100%;
+        border-radius: 100%;
+        border: 2px solid transparent;
+        background-color: rgba(0, 175, 242, 0.5);
+        opacity: .75;
+    }
+   
+    @-webkit-keyframes "headerAnimation" {
+        0% { margin-top: -70px; }
+        100% { margin-top: 0; }
+    }
+    @keyframes "headerAnimation" {
+        0% { margin-top: -70px; }
+        100% { margin-top: 0; }
+    }
+    .social-button a span:before {
+      content: "";
+      width: 0;
+      height: 0;
+      border-style: solid;
+      border-width: 10px 10px 10px 0;
+      border-color: transparent rgb(103, 182, 52) transparent transparent;
+      position: absolute;
+      left: -10px;
+      top: 10px;
+    }
+  </style>
+
+<script type=" text/javascript" src="https://admin.vn/assets/default/plugins/jquery.min.js"></script>
+<script type="text/javascript" src="https://admin.vn/assets/default/plugins/bootstrap/bootstrap.bundle.min.js"></script>
+<script type="text/javascript" src="https://admin.vn/assets/default/plugins/swiper/swiper-bundle.min.js"></script>
+<script type="text/javascript" src="https://admin.vn/assets/default/plugins/select2/js/select2.min.js"></script>
+<script type="text/javascript" src="https://admin.vn/assets/default/plugins/fancybox/fancybox.min.js"></script>
+<script type="text/javascript" src="https://admin.vn/assets/default/js/app.js"></script>
+
+<script src="https://www.google.com/recaptcha/api.js?render=&amp;onload=onloadCallback&amp;render=explicit"></script>
+<script>
+    function onloadCallback() {
+        grecaptcha.ready(function() {
+            grecaptcha.execute('', {
+                action: 'homepage'
+            }).then(function (token) {
+                $(".recaptcha_token").val(token);
+
+            });
+        });
+    }
+</script>
+
+
+
+
+
+
+</body></html>
